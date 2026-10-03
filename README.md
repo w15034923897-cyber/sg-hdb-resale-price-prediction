@@ -121,7 +121,7 @@ XGBoost 的特征重要性按维度汇总后：**城镇约 52%，房型次之，
 
 ```
 ├── README.md
-├── ECA.ipynb                       # 数据分析与建模代码
+├── code.ipynb                       # 数据分析与建模代码
 ├── app.py                           # Streamlit 预测网页
 ├── xgboost_housing_pipeline.pkl     # 训练好的模型
 ├── requirements.txt                 # 依赖

@@ -132,7 +132,7 @@ XGBoost 的特征重要性按维度汇总后：**城镇约 52%，房型次之，
 
 1. 克隆仓库并安装依赖：
    ```bash
-   git clone https://github.com/w15034923897-cyber/sg-hdb-resale-price-prediction.git
+   git clone https://github.com/wang-rann/sg-hdb-resale-price-prediction.git
    cd sg-hdb-resale-price-prediction
    pip install -r requirements.txt
    ```
